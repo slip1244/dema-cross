@@ -1,0 +1,28 @@
+{
+  "testing": false,
+  "mainnet": {
+    "exchangeApi": "https://api.bybit.com",
+    "dataApi": "wss://stream.bybit.com/realtime",
+    "keys": {
+        "key": "",
+        "secret": ""
+    }
+  },
+  "testnet": {
+    "exchangeApi": "https://api-testnet.bybit.com",
+    "dataApi": "wss://stream-testnet.bybit.com/realtime",
+    "keys": {
+        "key": "",
+        "secret": ""
+    }
+  },
+  "ticker": "ETHUSD",
+  "demaPeriods": {
+    "fast": 10,
+    "slow": 15
+  },
+  "leverage": 2,
+  "stopLossPercent": 0.3,
+  "interval": 1,
+  "token": ""
+}
