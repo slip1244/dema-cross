@@ -1,2 +1,2 @@
 # dema-cross
-DEMA cross algotrader
+DEMA cross algotrader for Bybit
